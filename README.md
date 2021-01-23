@@ -4,16 +4,18 @@
 
 <br />
 
-- 🔭 I'm currently working on ...
-  - ... a website for a client of mine (not public yet)
-  - ... a RSS Feed aggregator (not public yet either)
-  - ... a diet planner app (not public yet as well)
-- 🌱 I’m currently learning Artificial Intelligence, Machine Learning etc.
+- 🧑🏼‍💻 I'm currently working on ...
+  - 🖥 a website for a client of mine (not public yet)
+  - 📰 a RSS Feed aggregator (not public yet either)
+  - 🥗 a diet planner app (not public yet as well)
+- 🌱 I’m currently learning ...
+  - 🧠 Artificial Intelligence, Machine Learning etc.
+  - 📱 Swift and iOS App Development
 - 🥅 2021 Goals:
   - 🤝 Contribute more to Open Source projects
   - 👨🏼‍🎨 Redesign and rebuild my own personal portfolio [website]
   - ✅ Finish one of the projects I'm currently working on 😅
-  - 🧑🏼‍💻 Become self-employed on a part-time basis
+  - 💼 Become self-employed on a part-time basis
   - 🏋🏼‍♂️ Get back on track with my previous fitness lifestyle (f*ck you COVID ...)
     
 <br />
