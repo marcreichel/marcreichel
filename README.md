@@ -11,6 +11,7 @@
 - 👨🏼‍🏫 I’m currently learning ...
   - 🧠 Artificial Intelligence, Machine Learning etc.
   - 📱 Swift and iOS App Development
+  - 🐍 Python
 - 🥅 2021 Goals:
   - 🤝 Contribute more to Open Source projects
   - 👨🏼‍🎨 Redesign and rebuild my own personal portfolio [website]
