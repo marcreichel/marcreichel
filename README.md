@@ -10,11 +10,11 @@
   - ... a diet planner app (not public yet as well)
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning etc.
 - 🥅 2021 Goals:
-  - Contribute more to Open Source projects
-  - Redesign and rebuild my own personal portfolio [website]
-  - Finish one of the projects I'm currently working on 😅
-  - Become self-employed on a part-time basis
-  - Get back on track with my previous fitness lifestyle (f*ck you COVID ...)
+  - 🤝 Contribute more to Open Source projects
+  - 👨🏼‍🎨 Redesign and rebuild my own personal portfolio [website]
+  - ✅ Finish one of the projects I'm currently working on 😅
+  - 🧑🏼‍💻 Become self-employed on a part-time basis
+  - 🏋🏼‍♂️ Get back on track with my previous fitness lifestyle (f*ck you COVID ...)
     
 <br />
 
