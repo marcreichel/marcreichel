@@ -8,7 +8,7 @@
   - 🖥 a website for a client of mine (not public yet)
   - 📰 a RSS Feed aggregator (not public yet either)
   - 🥗 a diet planner app (not public yet as well)
-- 🌱 I’m currently learning ...
+- 👨🏼‍🏫 I’m currently learning ...
   - 🧠 Artificial Intelligence, Machine Learning etc.
   - 📱 Swift and iOS App Development
 - 🥅 2021 Goals:
