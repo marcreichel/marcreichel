@@ -34,7 +34,7 @@
 [<img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25">][css]
 [<img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25">][sass]
 [<img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">][javascript]
-<img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25">
+[<img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25">][typescript]
 [<img alt="TailwindCSS" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png" width="25" height="25">][tailwindcss]
 [<img alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="25" height="25">][php]
 [<img alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="25" height="25">][angular]
@@ -66,6 +66,7 @@
 [css]: https://wikipedia.org/wiki/CSS
 [sass]: https://sass-lang.com/
 [javascript]: https://wikipedia.org/wiki/JavaScript
+[typescript]: https://www.typescriptlang.org/
 [tailwindcss]: https://tailwindcss.com/
 [php]: https://www.php.net/
 [angular]: https://angular.io/
