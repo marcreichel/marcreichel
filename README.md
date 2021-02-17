@@ -58,8 +58,6 @@
 <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcreichel&layout=compact">
 </div>
 
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcreichel&hide_progress=true) -->
-
 [website]: https://marcreichel.dev
 [linkedin]: https://www.linkedin.com/in/marc-reichel/
 [intellij]: https://www.jetbrains.com/de-de/idea/
