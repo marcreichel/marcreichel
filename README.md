@@ -5,9 +5,11 @@
 <br />
 
 - 🧑🏼‍💻 I'm currently working on ...
-  - 🖥 a website for a client of mine (not public yet)
-  - 📰 a RSS Feed aggregator (not public yet either)
-  - 🥗 a diet planner app (not public yet as well)
+  - 🖥 a website for a client of mine
+  - 📰 a rss feed aggregator
+  - 🥗 a diet planner app
+  - 🕹 a gaming related website
+  - ✨ a (for now) TOP SECRET project 🤫
 - 👨🏼‍🏫 I’m currently learning ...
   - 🧠 Artificial Intelligence, Machine Learning etc.
   - 📱 Swift and iOS App Development
