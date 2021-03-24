@@ -14,8 +14,7 @@
   - 🧠 Artificial Intelligence, Machine Learning etc.
   - 📱 Swift and iOS App Development
   - 🐍 Python
-- 🥅 2021 Goals:
-  - => [#2021 project](https://github.com/users/marcreichel/projects/3)
+- [🥅 2021 Goals](https://github.com/users/marcreichel/projects/3)
     
 <br />
 
