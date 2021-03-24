@@ -15,10 +15,7 @@
   - 📱 Swift and iOS App Development
   - 🐍 Python
 - 🥅 2021 Goals:
-  - 🤝 Contribute more to Open Source projects
-  - 👨🏼‍🎨 Redesign and rebuild my own personal portfolio [website]
-  - 💼 Become self-employed on a part-time basis
-  - 🏋🏼‍♂️ Get back on track with my previous fitness lifestyle (f*ck you COVID ...)
+  - => [#2021 project](https://github.com/users/marcreichel/projects/3)
     
 <br />
 
