@@ -15,13 +15,6 @@
   - 📱 Swift and iOS App Development
   - 🐍 Python
 - [🥅 2021 Goals](https://github.com/users/marcreichel/projects/3)
-    
-<br />
-
-### Connect with me:
-
-[<img src="https://s2.svgbox.net/hero-outline.svg?ic=globe&color=999" width="25" height="25">][website]
-[<img src="https://s2.svgbox.net/social.svg?ic=linkedin&color=999" width="25" height="25">][linkedin]
 
 <br />
 
