@@ -5,7 +5,6 @@
 <br />
 
 - 🧑🏼‍💻 I'm currently working on ...
-  - 🖥 a website for a client of mine
   - 📰 a rss feed aggregator
   - 🥗 a diet planner app
   - 🕹 a gaming related website
