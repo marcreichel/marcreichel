@@ -17,12 +17,23 @@
 <br />
 
 ### Statistics
-<div>
-<img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true">
+
+
+<p align="center">
+  <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcreichel&layout=compact&theme=onedark">
 </div>
-<div>
-<img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcreichel&layout=compact">
+
+<p align="center">
+  <img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark">
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=marcreichel&theme=onedark" alt="GitHub Streak" />
 </div>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=marcreichel&theme=github" alt="marcreichel's github activity graph" />
+</p>
 
 [website]: https://marcreichel.dev
 [linkedin]: https://www.linkedin.com/in/marc-reichel/
