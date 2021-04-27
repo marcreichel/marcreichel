@@ -7,7 +7,6 @@
 - 🧑🏼‍💻 I'm currently working on ...
   - 📰 a rss feed aggregator
   - 🥗 a diet planner app
-  - 🕹 a gaming related website
   - ✨ a (for now) TOP SECRET project 🤫
 - 👨🏼‍🏫 I’m currently learning ...
   - 🧠 Artificial Intelligence, Machine Learning etc.
