@@ -1,22 +1,27 @@
-### Hi there, I'm Marc 👋
+<h1 align="center">
+  Hi there, I'm Marc 👋
+</h1>
 
-## I'm a passionate web designer and fullstack software developer!
+<h2 align="center">
+  I'm a passionate web designer and fullstack software developer!
+</h2>
 
 <br />
 
 - 🧑🏼‍💻 I'm currently working on ...
-  - 📰 a rss feed aggregator
+  - 📰 [tentaclefeed/feedreader](https://github.com/tentaclefeed/feedreader)
   - 🥗 a diet planner app
-  - ✨ a (for now) TOP SECRET project 🤫
 - 👨🏼‍🏫 I’m currently learning ...
-  - 🧠 Artificial Intelligence, Machine Learning etc.
+  - 🧠 Artificial Intelligence, Machine Learning, ...
   - 📱 Swift and iOS App Development
   - 🐍 Python
 - [🥅 2021 Goals](https://github.com/users/marcreichel/projects/3)
 
 <br />
 
-### Statistics
+<h3 align="center">
+  Statistics
+</h3>
 
 
 <p align="center">
