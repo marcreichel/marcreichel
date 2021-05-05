@@ -20,6 +20,20 @@
 <br />
 
 <h3 align="center">
+  My (main) Tech Stack
+</h3>
+
+<p align="center">
+  <a href="https://github.com/topics/php">#PHP</a>
+  <a href="https://github.com/topics/laravel">#Laravel</a>
+  <a href="https://github.com/topics/tailwind">#TailwindCSS</a>
+  <a href="https://github.com/topics/livewire">#Livewire</a>
+  <a href="https://github.com/topics/alpine-js">#AlpineJS</a>
+  <a href="https://github.com/topics/vue">#VueJS</a>
+  <a href="https://github.com/topics/angular">#Angular</a>
+</p>
+
+<h3 align="center">
   Statistics
 </h3>
 
