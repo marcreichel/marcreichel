@@ -36,42 +36,47 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/topics/php">
+  <a href="https://php.net">
     <img src="https://img.shields.io/badge/-PHP-%231572B6?style=for-the-badge&color=blue&logo=php&logoColor=ffffff" alt="PHP">
   </a>
-  <a href="https://github.com/topics/laravel">
+  <a href="https://laravel.com">
     <img src="https://img.shields.io/badge/-Laravel-%231572B6?style=for-the-badge&color=FF2D20&logo=laravel&logoColor=ffffff" alt="Laravel">
   </a>
-  <a href="https://github.com/topics/tailwind">
+  <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
   </a>
-  <a href="https://github.com/topics/livewire">
+  <a href="https://laravel-livewire.com">
     <img src="https://img.shields.io/badge/-Livewire-%231572B6?style=for-the-badge&color=blueviolet&logo=laravel-livewire&logoColor=ffffff" alt="Livewire">
   </a>
-  <a href="https://github.com/topics/alpine-js">
+  <a href="https://alpinejs.dev">
     <img src="https://img.shields.io/badge/-Alpine.js-%231572B6?style=for-the-badge&color=8BC0D0&logo=Alpine.js&logoColor=000000" alt="Alpine.js">
   </a>
-  <a href="https://github.com/topics/vue">
+  <a href="https://vuejs.org">
     <img src="https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VnVlLmpzPC90aXRsZT48cGF0aCBkPSJNMjQsMS42MUgxNC4wNkwxMiw1LjE2LDkuOTQsMS42MUgwTDEyLDIyLjM5Wk0xMiwxNC4wOCw1LjE2LDIuMjNIOS41OUwxMiw2LjQxbDIuNDEtNC4xOGg0LjQzWiIgZmlsbD0id2hpdGUiLz48L3N2Zz4K" alt="VueJS">
   </a>
-  <a href="https://github.com/topics/angular">
+  <a href="https://angular.io">
     <img src="https://img.shields.io/badge/-Angular-%232c3e50?style=for-the-badge&color=DD0031&logo=Angular&logoColor=ffffff" alt="Angular">
   </a>
-  <a href="https://github.com/topics/html">
-    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
-  </a>
-  <a href="https://github.com/topics/sass">
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
+  <a href="https://sass-lang.com">
     <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SCSS">
   </a>
-  <img src="https://img.shields.io/badge/-GraphQL-%23E434AA?style=for-the-badge&logo=graphql&logoColor=ffffff" alt="GraphQL">
-  <a href="https://github.com/topics/javascript">
-    <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+  <a href="https://graphql.org">
+    <img src="https://img.shields.io/badge/-GraphQL-%23E434AA?style=for-the-badge&logo=graphql&logoColor=ffffff" alt="GraphQL">
   </a>
-  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm" alt="npm">
-  <img src="https://img.shields.io/badge/-Nx-%23143055?style=for-the-badge&logo=nx" alt="Nrwl">
-  <img src="https://img.shields.io/badge/-PurgeCSS-%2314161A?style=for-the-badge&logo=purgecss" alt="PurgeCSS">
-  <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="Node.js">
+  </a>
+  <a href="https://nx.dev">
+    <img src="https://img.shields.io/badge/-Nx-%23143055?style=for-the-badge&logo=nx" alt="Nx">
+  </a>
+  <a href="https://purgecss.com">
+    <img src="https://img.shields.io/badge/-PurgeCSS-%2314161A?style=for-the-badge&logo=purgecss" alt="PurgeCSS">
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  </a>
 </p>
 
 <br />
@@ -97,6 +102,7 @@
   <img src="https://img.shields.io/badge/-Laravel%20Nova-%23252D37?style=for-the-badge&logo=laravel%20nova" alt="Laravel Nova">
   <img src="https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-%23003A70?style=for-the-badge&logo=Let%E2%80%99s%20Encrypt" alt="Let's Encrypt">
   <img src="https://img.shields.io/badge/-Matomo-%233152A0?style=for-the-badge&logo=matomo" alt="Matomo">
+  <img src="https://img.shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm" alt="npm">
   <img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman">
 </p>
 
