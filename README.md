@@ -9,23 +9,6 @@
 <br />
 
 <h3 align="center">
-  🧑🏼‍💻 I'm currently working on ...
-</h3>
-
-<p align="center">
-  <a href="https://github.com/marcreichel/apple-tv-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcreichel&repo=apple-tv-card&theme=onedark" alt="marcreichel/apple-tv-card">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/tentaclefeed/feedreader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tentaclefeed&repo=feedreader&theme=onedark&show_owner=true" alt="tentaclefeed/feedreader">
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">
   <a href="https://github.com/users/marcreichel/projects/3">🥅 2021 GOALS</a>
 </h3>
 
