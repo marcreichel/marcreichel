@@ -116,9 +116,5 @@
   <img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800">
 </p>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marcreichel&theme=onedark&cache_seconds=1800" alt="GitHub Streak" />
-</div>
-
 [website]: https://marcreichel.dev
 [linkedin]: https://www.linkedin.com/in/marc-reichel/
