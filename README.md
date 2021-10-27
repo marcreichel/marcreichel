@@ -2,9 +2,9 @@
   Hi there, I'm Marc 👋
 </h1>
 
-<h2 align="center">
+<p align="center">
   I'm a passionate web designer and fullstack software developer!
-</h2>
+</p>
 
 <br />
 
