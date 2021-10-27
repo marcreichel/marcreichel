@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
   </a>
   <a href="https://laravel-livewire.com">
-    <img src="https://img.shields.io/badge/-Livewire-%231572B6?style=for-the-badge&color=blueviolet&logo=laravel-livewire&logoColor=ffffff" alt="Livewire">
+    <img src="https://img.shields.io/badge/-Livewire-%231572B6?style=for-the-badge&color=4E56A6&logo=livewire&logoColor=ffffff" alt="Livewire">
   </a>
   <a href="https://alpinejs.dev">
     <img src="https://img.shields.io/badge/-Alpine.js-%231572B6?style=for-the-badge&color=8BC0D0&logo=Alpine.js&logoColor=000000" alt="Alpine.js">
