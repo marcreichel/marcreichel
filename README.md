@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker">
   <img src="https://img.shields.io/badge/-Font%20Awesome%20Pro-%23339AF0?style=for-the-badge&logo=font%20awesome&logoColor=ffffff" alt="Font Awesome Pro">
   <img src="https://img.shields.io/badge/-Google%20Chrome-%234285F4?style=for-the-badge&logo=google%20chrome&logoColor=ffffff" alt="Google Chrome">
+  <img src="https://img.shields.io/badge/-Safari-%23000000?style=for-the-badge&logo=safari&logoColor=ffffff" alt="Safari">
   <img src="https://img.shields.io/badge/-Homebrew-%23FBB040?style=for-the-badge&logo=homebrew&logoColor=000000" alt="Homebrew">
   <img src="https://img.shields.io/badge/-Laravel%20Horizon-%23405263?style=for-the-badge&logo=laravel%20horizon" alt="Laravel Horizon">
   <img src="https://img.shields.io/badge/-Laravel%20Nova-%23252D37?style=for-the-badge&logo=laravel%20nova" alt="Laravel Nova">
