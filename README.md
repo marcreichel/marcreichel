@@ -9,12 +9,6 @@
 <br />
 
 <h3 align="center">
-  <a href="https://github.com/users/marcreichel/projects/3">🥅 2021 GOALS</a>
-</h3>
-
-<br />
-
-<h3 align="center">
   MY TECH STACK
 </h3>
 
