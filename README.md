@@ -152,6 +152,7 @@
 [website]: https://marcreichel.dev
 [linkedin]: https://www.linkedin.com/in/marc-reichel/
 
+<!--
 ```
          @marcreichel's 2020 GitHub Skyline          
 
@@ -164,6 +165,7 @@
 
      https://skyline.github.com/marcreichel/2020     
 ```
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=marcreichel&theme=onedark" style="width:100%;" alt="Trophies">
 
