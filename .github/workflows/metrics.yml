@@ -36,7 +36,6 @@ jobs:
           plugin_habits_facts: no       # Display facts section
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
-          config_timezone: Europe/Paris # Set timezone
           
           plugin_people: yes
           plugin_people_types: followers     # Display followers and "thanks" sections
