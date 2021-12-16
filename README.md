@@ -1,12 +1,4 @@
-<h1 align="center">
-  Hi there, I'm Marc 👋
-</h1>
-
-<p align="center">
-  I'm a passionate web designer and fullstack software developer!
-</p>
-
-<br />
+<img src="github-metrics.svg" style="width:100%;">
 
 <h3 align="center">
   MY TECH STACK
@@ -66,7 +58,7 @@
   <a href="https://www.apple.com/de/macos/" target="_blanc" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/-macOS-%23000000?style=for-the-badge&logo=apple" alt="MacOS">
   </a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blanc" rel="noreferrer noopener">
+  <a href="https://marcs.app/phpstorm/" target="_blanc" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/-PHPStorm-%23000000?style=for-the-badge&logo=Phpstorm" alt="PHPStorm">
   </a>
   <a href="https://git-scm.com/" target="_blanc" rel="noreferrer noopener">
@@ -108,9 +100,6 @@
   <a href="https://nova.laravel.com/" target="_blanc" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/-Laravel%20Nova-%23252D37?style=for-the-badge&logo=laravel%20nova" alt="Laravel Nova">
   </a>
-  <a href="https://letsencrypt.org/" target="_blanc" rel="noreferrer noopener">
-    <img src="https://img.shields.io/badge/-Let%E2%80%99s%20Encrypt-%23003A70?style=for-the-badge&logo=Let%E2%80%99s%20Encrypt" alt="Let's Encrypt">
-  </a>
   <a href="https://www.npmjs.com/" target="_blanc" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/-npm-%23CB3837?style=for-the-badge&logo=npm" alt="npm">
   </a>
@@ -125,25 +114,8 @@
 <br />
 
 <h3 align="center">
-  BUY ME A COFFEE
-</h3>
-
-<p align="center">
-  <a href="https://github.com/sponsors/marcreichel">
-    <img src="https://img.shields.io/badge/-Sponsor%20me-%23EA4AAA?style=for-the-badge&logo=github%20sponsors&logoColor=ffffff">
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">
   STATISTICS
 </h3>
-
-
-<p align="center">
-  <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcreichel&layout=compact&theme=onedark&langs_count=10" style="max-width:100%;">
-</div>
 
 <p align="center">
   <img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800" style="max-width:100%;">
