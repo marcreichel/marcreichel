@@ -57,7 +57,7 @@ jobs:
           plugin_traffic: yes
           
           plugin_sponsors: yes
-          plugin_sponsors_sections: goal, about # Display goal and about sections
+          plugin_sponsors_sections: goal # Display goal and about sections
           
           plugin_pagespeed: yes
           # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
