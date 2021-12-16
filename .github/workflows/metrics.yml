@@ -45,6 +45,9 @@ jobs:
           
           plugin_lines: yes
           
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          
           plugin_traffic: yes
           
           plugin_sponsors: yes
