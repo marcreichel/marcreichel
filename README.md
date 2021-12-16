@@ -142,11 +142,11 @@
 
 
 <p align="center">
-  <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcreichel&layout=compact&theme=onedark">
+  <img alt="Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcreichel&layout=compact&theme=onedark&langs_count=10" style="max-width:100%;">
 </div>
 
 <p align="center">
-  <img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800">
+  <img alt="Marc Reichel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800" style="max-width:100%;">
 </p>
 
 [website]: https://marcreichel.dev
