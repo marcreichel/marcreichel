@@ -139,6 +139,4 @@
 ```
 -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=marcreichel&theme=onedark" style="width:100%;" alt="Trophies">
-
 <img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
