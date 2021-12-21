@@ -1,4 +1,6 @@
-<img src="github-metrics.svg" style="width:100%;">
+<img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
+
+<img src="github-metrics.svg" style="width:100%;" alt="Metrics">
 
 <h3 align="center">
   MY TECH STACK
@@ -138,5 +140,3 @@
      https://skyline.github.com/marcreichel/2020     
 ```
 -->
-
-<img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
