@@ -13,7 +13,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           output_action: gist
-          committer_gist: "marcreichel/e965a7148b790e9215abddd35e9d9110"
+          committer_gist: "marcreichel/github-metrics.svg"
 
           # Core
           user: marcreichel
