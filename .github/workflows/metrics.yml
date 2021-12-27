@@ -47,12 +47,6 @@ jobs:
           plugin_people_types: followers     # Display followers and "thanks" sections
           plugin_people_shuffle: yes         # Shuffle for varied output
           
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
-          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
-          plugin_pagespeed_url: .user.website                    # Website to audit (defaults to your GitHub linked website)
-          
           plugin_rss: yes
           plugin_rss_source: https://marcreichel.dev/blog.atom  # RSS feed
           plugin_rss_limit: 3                                  # Limit to 6 items
