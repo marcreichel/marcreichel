@@ -11,9 +11,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          output_action: gist
-          committer_gist: "marcreichel/github-metrics.svg"
 
           # Core
           user: marcreichel
