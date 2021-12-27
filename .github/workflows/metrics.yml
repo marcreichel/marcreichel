@@ -11,6 +11,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          output_action: gist
+          committer_gist: "e686fffc1ec62138232aef758a7dc079"
 
           # Core
           user: marcreichel
