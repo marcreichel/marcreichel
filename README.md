@@ -129,17 +129,15 @@
 [website]: https://marcreichel.dev
 [linkedin]: https://www.linkedin.com/in/marc-reichel/
 
-<!--
-```
-         @marcreichel's 2020 GitHub Skyline          
+<!--    
+         @marcreichel's 2021 GitHub Skyline          
 
-    ✧ ☽             ✦ ▁ ✦   ✧      ✦           ✦     
- ▂                    █        ▇    ✧ ▄ ✦            
- █         ▂     ▂  ✦ █✧       █  ▇   █▇ ✧           
- ██ ▃▃ ▃▅  █▁ ✦  █▁   █ ▆   █  █  █ ▆✦██ ▁ ▆  ▃✧  ▅  
- ██▇██▆██▇▇██▇▇ ▂██   █ █▄▆ █✧ █▂ █▇█▆██▇█▄█▄▇█✧▆▇█  
-▅██████████████▁████▁██▁█████▁▁██▁██████████████████▅
+✧                     ✦                 ✦         ▁  
+    ✦           ▅        ✦ ✦         ✦      █▁✦  ▁█▁ 
+ ☽ ▁        ▂   █▂     ▁                    ██   ███ 
+   █▅✧      █▃▂ ██  ▇ ▁█           ✧       ▃██ ▄▇███ 
+   ██▁▁ ▃█▃▆███▅██▅▃█▇██▅▄█ ▁█▅▃█▃▁▁▃▃ ▆▃▅▆███▇█████▆
+▁▆▇███████████████████████████████████▇██████████████
 
-     https://skyline.github.com/marcreichel/2020     
-```
+     https://skyline.github.com/marcreichel/2021     
 -->
