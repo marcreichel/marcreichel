@@ -19,7 +19,7 @@ jobs:
           # Core
           user: marcreichel
           config_timezone: Europe/Berlin
-          committer_message: "chore: update achievements"
+          committer_message: "🏆 Update Achievements"
           
           template: classic
           base: header
@@ -60,7 +60,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 1000       # Use 1000 events to compute habits
           plugin_habits_days: 30         # Keep only events from last 30 days
-          plugin_habits_facts: yes       # Display facts section
+          plugin_habits_facts: no        # Do not display facts section
           plugin_habits_charts: yes      # Display charts section
           plugin_habits_trim: no         # Do not trim unused hours on daily chart
           
@@ -70,5 +70,5 @@ jobs:
           
           plugin_rss: yes
           plugin_rss_source: https://marcreichel.dev/blog.atom  # RSS feed
-          plugin_rss_limit: 3                                  # Limit to 3 items
+          plugin_rss_limit: 3                                   # Limit to 3 items
           
