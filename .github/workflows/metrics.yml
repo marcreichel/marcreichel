@@ -65,10 +65,5 @@ jobs:
           plugin_habits_trim: no         # Do not trim unused hours on daily chart
           
           plugin_people: yes
-          plugin_people_types: followers     # Display followers and "thanks" sections
+          plugin_people_types: followers     # Display followers section
           plugin_people_shuffle: yes         # Shuffle for varied output
-          
-          plugin_rss: yes
-          plugin_rss_source: https://marcreichel.dev/blog.atom  # RSS feed
-          plugin_rss_limit: 3                                   # Limit to 3 items
-          
