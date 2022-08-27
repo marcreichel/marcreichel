@@ -12,6 +12,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Download Light SVG
         run: curl https://marcreichel.dev/github-profile -o profile-dark.svg
       - name: Download Dark SVG
