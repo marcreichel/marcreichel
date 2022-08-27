@@ -12,8 +12,6 @@ on:
   push:
     branches:
     - main
-    
-  
 
 jobs:
   generate:
@@ -23,14 +21,17 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg?color_snake=#ec4899&color_dots=#e0e7ff,#a5b4fc,#6366f1,#4338ca,#312e81
+            dist/github-snake-dark.svg?color_snake=#ec4899&color_dots=#1e293b,#312e81,#4338ca,#6366f1,#a5b4fc
+          
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push files to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
