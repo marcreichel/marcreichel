@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
+<img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-snake.svg#gh-light-mode-only" style="width:100%;" alt="Snake">
+<img src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-snake-dark.svg#gh-dark-mode-only" style="width:100%;" alt="Snake">
 
 <img src="github-metrics.svg" style="width:100%;" alt="Metrics">
 
