@@ -136,9 +136,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:90.93825180433%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:90.777866880513%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,134
+                                    1,132
                                 </div>
                             </div>
                         </div>
@@ -146,9 +146,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:92.542101042502%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:92.141138732959%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,154
+                                    1,149
                                 </div>
                             </div>
                         </div>
@@ -156,9 +156,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:74.498797113071%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:74.338412189254%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    929
+                                    927
                                 </div>
                             </div>
                         </div>
@@ -166,9 +166,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:31.435445068164%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:31.836407377706%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    392
+                                    397
                                 </div>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Organizations</div>
                 </div>
                 <div style="width:25%;">
-                    <div style="font-size:1.5rem;">245</div>
+                    <div style="font-size:1.5rem;">246</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Earned Stars</div>
                 </div>
             </div>
