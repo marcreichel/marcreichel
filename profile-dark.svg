@@ -100,9 +100,9 @@
             <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:1rem;margin:2rem 8rem;">
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:40.09623095429%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:40.176423416199%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    500
+                                    501
                                 </div>
                             </div>
                         </div>
