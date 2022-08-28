@@ -18,3 +18,5 @@ jobs:
       - name: Download Dark SVG
         run: curl https://marcreichel.dev/github-profile?dark -o profile-dark.svg
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_author: ''
