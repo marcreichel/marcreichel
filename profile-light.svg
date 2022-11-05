@@ -1,10 +1,13 @@
-<svg role="img" xmlns="http://www.w3.org/2000/svg" width="768" height="1355" class="">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" width="480" height="1475">
     <defs>
         <style/>
     </defs>
     <style>
         *, *:before, *:after {
             margin: 0;
+        }
+        h3 {
+            font-size: 1rem;
         }
         .wrapper {
             position: relative;
@@ -40,13 +43,13 @@
             display: inline-block;
         }
         .bio {
-            font-size: 1.25rem;
+            font-size: 1rem;
             width: 50ch;
             margin: 2rem auto;
             line-height: 1.5rem;
         }
         .tag {
-            padding: 0.5rem 0.75rem;
+            padding: 0.4rem 0.5rem;
             border-radius: 0.25rem;
             font-size: 0.75rem;
             font-weight: 600;
@@ -95,7 +98,7 @@
                 CONTRIBUTION ACTIVITY PER DAY OF WEEK
             </h3>
             <p style="opacity:0.5;font-size:small;">Over the last year</p>
-            <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:1rem;margin:2rem 8rem;">
+            <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:2rem;margin:2rem 4rem;">
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
                             <div style="width:100%;height:40.467219291635%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
@@ -148,9 +151,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:78.52298417483%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:78.447626224567%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,042
+                                    1,041
                                 </div>
                             </div>
                         </div>
@@ -158,9 +161,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:31.348907309721%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:31.424265259985%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    416
+                                    417
                                 </div>
                             </div>
                         </div>
@@ -174,20 +177,20 @@
 
                 STATISTICS
             </h3>
-            <div style="display:flex;justify-content:center;flex-wrap:wrap;margin:2rem 0;">
-                <div style="width:25%;">
+            <div style="display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:1rem;margin:2rem 0;">
+                <div>
                     <div style="font-size:1.5rem;">5</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Packages</div>
                 </div>
-                <div style="width:25%;">
-                    <div style="font-size:1.5rem;">26</div>
+                <div>
+                    <div style="font-size:1.5rem;">25</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Repositories</div>
                 </div>
-                <div style="width:25%;">
+                <div>
                     <div style="font-size:1.5rem;">4</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Organizations</div>
                 </div>
-                <div style="width:25%;">
+                <div>
                     <div style="font-size:1.5rem;">295</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Earned Stars</div>
                 </div>
@@ -199,7 +202,7 @@
 
                 31 FOLLOWERS
             </h3>
-            <div style="display:grid;grid-template-columns:repeat(12, minmax(0, 1fr));gap:1rem;margin:2rem 0;">
+            <div style="display:grid;grid-template-columns:repeat(12, minmax(0, 1fr));gap:0.5rem;margin:2rem 0;">
                                     <img src="data:image/jpeg;base64,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" alt="Ali-Hassan-Ali" style="width:100%;" class="avatar"/>
                                     <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2ODApLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgALgAuAwERAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AZLKkEbSSMFRRkk0AUVkutR+ZCbW3PRiPnb/CgC5baHbvb3EsrSyNGBgs55JNAEUVrHtDQu6j/eyKAJ0LDhufcUAP+lAGdIn9o35Rube3wSP7z/8A1qANJFBZV6AnFAFiaPZcy20Uu1Tnk+wzQBXt7SHSNEE1zIWlMZkWIdSTyCfSgBkT740bpkA0ATSJ8quOjfzoAz9KXFszfxO7MfzoAuUALcWyQRzXM9wyTFPLjiHJBbjJH0oAp3tu+oyqHmP2YAfu9m0tjsaALYGBgUAXrGITwOp6KwP6GgDIsl8uN4+6saALqv5NvNKv+tACx8ZwSetAFV4swLGMuTMsjuxyWIz1oAmuB5LxI3+skydvdR6n0oATOGKnhl4IoA0rZ/sen+aeDJJgfQD/AOvQBl7MSbh34NAEg44PT0oAQNOj/uVQsejsMkfQetACEJp7soH2m9blgxyFPq5/pQBNp2nyXUrs7ltx3zTNwB/n0oAl1C5WeVViGIYxtQH09fxoAq+1AEiSLjDruHqOtAFlNOW5UeXPLCfVetADl0+z01Pn82XvgYGT7mgCK51B54xEqiGEdI06fj60AVaAP//Z" alt="cumsoft" style="width:100%;" class="avatar"/>
                                     <img src="data:image/png;base64,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" alt="AkshatRastogi-1nC0re" style="width:100%;" class="avatar"/>
@@ -234,91 +237,91 @@
             </h3>
             <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:0.25rem;margin:2rem 0;">
                                     <div class="tag" style="background:#8BC0D0;color:black">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="m24 12-5.72 5.746-5.724-5.741 5.724-5.75L24 12zM5.72 6.254 0 12l5.72 5.746h11.44L5.72 6.254z"/>
                             </svg>
                                                 ALPINE.JS
                     </div>
                                     <div class="tag" style="background:#DD0031;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M9.931 12.645h4.138l-2.07-4.908m0-7.737L.68 3.982l1.726 14.771L12 24l9.596-5.242L23.32 3.984 11.999.001zm7.064 18.31h-2.638l-1.422-3.503H8.996l-1.422 3.504h-2.64L12 2.65z"/>
                             </svg>
                                                 ANGULAR
                     </div>
                                     <div class="tag" style="background:#E10098;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M12.002 0a2.138 2.138 0 1 0 0 4.277 2.138 2.138 0 1 0 0-4.277zm8.54 4.931a2.138 2.138 0 1 0 0 4.277 2.138 2.138 0 1 0 0-4.277zm0 9.862a2.138 2.138 0 1 0 0 4.277 2.138 2.138 0 1 0 0-4.277zm-8.54 4.931a2.138 2.138 0 1 0 0 4.276 2.138 2.138 0 1 0 0-4.276zm-8.542-4.93a2.138 2.138 0 1 0 0 4.276 2.138 2.138 0 1 0 0-4.277zm0-9.863a2.138 2.138 0 1 0 0 4.277 2.138 2.138 0 1 0 0-4.277zm8.542-3.378L2.953 6.777v10.448l9.049 5.224 9.047-5.224V6.777zm0 1.601 7.66 13.27H4.34zm-1.387.371L3.97 15.037V7.363zm2.774 0 6.646 3.838v7.674zM5.355 17.44h13.293l-6.646 3.836z"/>
                             </svg>
                                                 GRAPHQL
                     </div>
                                     <div class="tag" style="background:#E34F26;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/>
                             </svg>
                                                 HTML5
                     </div>
                                     <div class="tag" style="background:#F7DF1E;color:black">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"/>
                             </svg>
                                                 JAVASCRIPT
                     </div>
                                     <div class="tag" style="background:#ff2d20;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M23.642 5.43a.364.364 0 01.014.1v5.149c0 .135-.073.26-.189.326l-4.323 2.49v4.934a.378.378 0 01-.188.326L9.93 23.949a.316.316 0 01-.066.027c-.008.002-.016.008-.024.01a.348.348 0 01-.192 0c-.011-.002-.02-.008-.03-.012-.02-.008-.042-.014-.062-.025L.533 18.755a.376.376 0 01-.189-.326V2.974c0-.033.005-.066.014-.098.003-.012.01-.02.014-.032a.369.369 0 01.023-.058c.004-.013.015-.022.023-.033l.033-.045c.012-.01.025-.018.037-.027.014-.012.027-.024.041-.034H.53L5.043.05a.375.375 0 01.375 0L9.93 2.647h.002c.015.01.027.021.04.033l.038.027c.013.014.02.03.033.045.008.011.02.021.025.033.01.02.017.038.024.058.003.011.01.021.013.032.01.031.014.064.014.098v9.652l3.76-2.164V5.527c0-.033.004-.066.013-.098.003-.01.01-.02.013-.032a.487.487 0 01.024-.059c.007-.012.018-.02.025-.033.012-.015.021-.03.033-.043.012-.012.025-.02.037-.028.014-.01.026-.023.041-.032h.001l4.513-2.598a.375.375 0 01.375 0l4.513 2.598c.016.01.027.021.042.031.012.01.025.018.036.028.013.014.022.03.034.044.008.012.019.021.024.033.011.02.018.04.024.06.006.01.012.021.015.032zm-.74 5.032V6.179l-1.578.908-2.182 1.256v4.283zm-4.51 7.75v-4.287l-2.147 1.225-6.126 3.498v4.325zM1.093 3.624v14.588l8.273 4.761v-4.325l-4.322-2.445-.002-.003H5.04c-.014-.01-.025-.021-.04-.031-.011-.01-.024-.018-.035-.027l-.001-.002c-.013-.012-.021-.025-.031-.04-.01-.011-.021-.022-.028-.036h-.002c-.008-.014-.013-.031-.02-.047-.006-.016-.014-.027-.018-.043a.49.49 0 01-.008-.057c-.002-.014-.006-.027-.006-.041V5.789l-2.18-1.257zM5.23.81L1.47 2.974l3.76 2.164 3.758-2.164zm1.956 13.505l2.182-1.256V3.624l-1.58.91-2.182 1.255v9.435zm11.581-10.95l-3.76 2.163 3.76 2.163 3.759-2.164zm-.376 4.978L16.21 7.087 14.63 6.18v4.283l2.182 1.256 1.58.908zm-8.65 9.654l5.514-3.148 2.756-1.572-3.757-2.163-4.323 2.489-3.941 2.27z"/>
                             </svg>
                                                 LARAVEL
                     </div>
                                     <div class="tag" style="background:#4E56A6;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M12.001 0C6.1735 0 1.4482 4.9569 1.4482 11.0723c0 2.0888.5518 4.0417 1.5098 5.709.2492.2796.544.4843.9649.4843 1.3388 0 1.2678-2.0644 2.6074-2.0644 1.3395 0 1.4111 2.0644 2.75 2.0644 1.3388 0 1.2659-2.0644 2.6054-2.0644.5845 0 .9278.3967 1.2403.8398-.2213-.2055-.4794-.3476-.8203-.3476-1.1956 0-1.3063 1.6771-2.2012 2.1406v4.5097c0 .9145.7418 1.6563 1.6562 1.6563.9145 0 1.6563-.7418 1.6563-1.6563v-5.8925c.308.4332.647.8144 1.2207.8144 1.3388 0 1.266-2.0644 2.6055-2.0644.465 0 .7734.2552 1.039.58-.1294-.0533-.2695-.0878-.4297-.0878-1.1582 0-1.296 1.574-2.1171 2.0937v2.4356c0 .823.6672 1.4902 1.4902 1.4902s1.4902-.6672 1.4902-1.4902V16.371c.3234.4657.6684.8945 1.2774.8945.7955 0 1.093-.7287 1.4843-1.3203.6878-1.4704 1.0743-3.1245 1.0743-4.873C22.5518 4.9569 17.8284 0 12.001 0zm-.5664 2.877c2.8797 0 5.2148 2.7836 5.2148 5.8066 0 3.023-1.5455 5.1504-5.2148 5.1504-3.6693 0-5.2149-2.1274-5.2149-5.1504S8.5548 2.877 11.4346 2.877zM10.0322 4.537a1.9554 2.1583 0 00-1.955 2.1582 1.9554 2.1583 0 001.955 2.1582 1.9554 2.1583 0 001.9551-2.1582 1.9554 2.1583 0 00-1.955-2.1582zm-.3261.664a.9777.9961 0 01.9785.9962.9777.9961 0 01-.9785.996.9777.9961 0 01-.9766-.996.9777.9961 0 01.9766-.9961zM6.7568 15.6935c-1.0746 0-1.2724 1.3542-1.9511 1.9648v1.7813c0 .823.6672 1.4902 1.4902 1.4902s1.4902-.6672 1.4902-1.4902v-3.1817c-.2643-.3237-.5767-.5644-1.0293-.5644Z"/>
                             </svg>
                                                 LIVEWIRE
                     </div>
                                     <div class="tag" style="background:#339933;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M11.998,24c-0.321,0-0.641-0.084-0.922-0.247l-2.936-1.737c-0.438-0.245-0.224-0.332-0.08-0.383 c0.585-0.203,0.703-0.25,1.328-0.604c0.065-0.037,0.151-0.023,0.218,0.017l2.256,1.339c0.082,0.045,0.197,0.045,0.272,0l8.795-5.076 c0.082-0.047,0.134-0.141,0.134-0.238V6.921c0-0.099-0.053-0.192-0.137-0.242l-8.791-5.072c-0.081-0.047-0.189-0.047-0.271,0 L3.075,6.68C2.99,6.729,2.936,6.825,2.936,6.921v10.15c0,0.097,0.054,0.189,0.139,0.235l2.409,1.392 c1.307,0.654,2.108-0.116,2.108-0.89V7.787c0-0.142,0.114-0.253,0.256-0.253h1.115c0.139,0,0.255,0.112,0.255,0.253v10.021 c0,1.745-0.95,2.745-2.604,2.745c-0.508,0-0.909,0-2.026-0.551L2.28,18.675c-0.57-0.329-0.922-0.945-0.922-1.604V6.921 c0-0.659,0.353-1.275,0.922-1.603l8.795-5.082c0.557-0.315,1.296-0.315,1.848,0l8.794,5.082c0.57,0.329,0.924,0.944,0.924,1.603 v10.15c0,0.659-0.354,1.273-0.924,1.604l-8.794,5.078C12.643,23.916,12.324,24,11.998,24z M19.099,13.993 c0-1.9-1.284-2.406-3.987-2.763c-2.731-0.361-3.009-0.548-3.009-1.187c0-0.528,0.235-1.233,2.258-1.233 c1.807,0,2.473,0.389,2.747,1.607c0.024,0.115,0.129,0.199,0.247,0.199h1.141c0.071,0,0.138-0.031,0.186-0.081 c0.048-0.054,0.074-0.123,0.067-0.196c-0.177-2.098-1.571-3.076-4.388-3.076c-2.508,0-4.004,1.058-4.004,2.833 c0,1.925,1.488,2.457,3.895,2.695c2.88,0.282,3.103,0.703,3.103,1.269c0,0.983-0.789,1.402-2.642,1.402 c-2.327,0-2.839-0.584-3.011-1.742c-0.02-0.124-0.126-0.215-0.253-0.215h-1.137c-0.141,0-0.254,0.112-0.254,0.253 c0,1.482,0.806,3.248,4.655,3.248C17.501,17.007,19.099,15.91,19.099,13.993z"/>
                             </svg>
                                                 NODE.JS
                     </div>
                                     <div class="tag" style="background:#143055;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M11.987 14.138l-3.132 4.923-5.193-8.427-.012 8.822H0V4.544h3.691l5.247 8.833.005-3.998 3.044 4.759zm.601-5.761c.024-.048 0-3.784.008-3.833h-3.65c.002.059-.005 3.776-.003 3.833h3.645zm5.634 4.134a2.061 2.061 0 0 0-1.969 1.336 1.963 1.963 0 0 1 2.343-.739c.396.161.917.422 1.33.283a2.1 2.1 0 0 0-1.704-.88zm3.39 1.061c-.375-.13-.8-.277-1.109-.681-.06-.08-.116-.17-.176-.265a2.143 2.143 0 0 0-.533-.642c-.294-.216-.68-.322-1.18-.322a2.482 2.482 0 0 0-2.294 1.536 2.325 2.325 0 0 1 4.002.388.75.75 0 0 0 .836.334c.493-.105.46.36 1.203.518v-.133c-.003-.446-.246-.55-.75-.733zm2.024 1.266a.723.723 0 0 0 .347-.638c-.01-2.957-2.41-5.487-5.37-5.487a5.364 5.364 0 0 0-4.487 2.418c-.01-.026-1.522-2.39-1.538-2.418H8.943l3.463 5.423-3.379 5.32h3.54l1.54-2.366 1.568 2.366h3.541l-3.21-5.052a.7.7 0 0 1-.084-.32 2.69 2.69 0 0 1 2.69-2.691h.001c1.488 0 1.736.89 2.057 1.308.634.826 1.9.464 1.9 1.541a.707.707 0 0 0 1.066.596zm.35.133c-.173.372-.56.338-.755.639-.176.271.114.412.114.412s.337.156.538-.311c.104-.231.14-.488.103-.74z"/>
                             </svg>
                                                 NX
                     </div>
                                     <div class="tag" style="background:#777BB4;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M7.01 10.207h-.944l-.515 2.648h.838c.556 0 .97-.105 1.242-.314.272-.21.455-.559.55-1.049.092-.47.05-.802-.124-.995-.175-.193-.523-.29-1.047-.29zM12 5.688C5.373 5.688 0 8.514 0 12s5.373 6.313 12 6.313S24 15.486 24 12c0-3.486-5.373-6.312-12-6.312zm-3.26 7.451c-.261.25-.575.438-.917.551-.336.108-.765.164-1.285.164H5.357l-.327 1.681H3.652l1.23-6.326h2.65c.797 0 1.378.209 1.744.628.366.418.476 1.002.33 1.752a2.836 2.836 0 0 1-.305.847c-.143.255-.33.49-.561.703zm4.024.715l.543-2.799c.063-.318.039-.536-.068-.651-.107-.116-.336-.174-.687-.174H11.46l-.704 3.625H9.388l1.23-6.327h1.367l-.327 1.682h1.218c.767 0 1.295.134 1.586.401s.378.7.263 1.299l-.572 2.944h-1.389zm7.597-2.265a2.782 2.782 0 0 1-.305.847c-.143.255-.33.49-.561.703a2.44 2.44 0 0 1-.917.551c-.336.108-.765.164-1.286.164h-1.18l-.327 1.682h-1.378l1.23-6.326h2.649c.797 0 1.378.209 1.744.628.366.417.477 1.001.331 1.751zM17.766 10.207h-.943l-.516 2.648h.838c.557 0 .971-.105 1.242-.314.272-.21.455-.559.551-1.049.092-.47.049-.802-.125-.995s-.524-.29-1.047-.29z"/>
                             </svg>
                                                 PHP
                     </div>
                                     <div class="tag" style="background:#14161A;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M12 0C5.373 0 0 5.373 0 12a12 12 0 0 0 9.764 11.791c.048-1.003.052-2.55.047-9.967 0-5.484.003-9.995.013-10.023.028-.08 2.26-.042 2.678.047a4.903 4.903 0 0 1 3.078 2.08 4.834 4.834 0 0 1-.7 6.164c-.924.878-2.041 1.334-3.29 1.334-.225 0-.29.012-.305.068-.01.043-.02 2.418-.014 5.287v5.196A12 12 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm-.691 4.31c-.013.004-.017.023-.02.063-.018.245-.023 8.358-.004 8.39.01.02.075-.014.145-.07 2.673-1.952 3.467-2.792 3.738-3.939.14-.746-.174-1.466-1.01-2.3-.699-.72-1.692-1.358-2.779-2.099-.038-.033-.058-.047-.07-.044z"/>
                             </svg>
                                                 PURGECSS
                     </div>
                                     <div class="tag" style="background:#CC6699;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M12 0c6.627 0 12 5.373 12 12s-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0zM9.615 15.998c.175.645.156 1.248-.024 1.792l-.065.18c-.024.061-.052.12-.078.176-.14.29-.326.56-.555.81-.698.759-1.672 1.047-2.09.805-.45-.262-.226-1.335.584-2.19.871-.918 2.12-1.509 2.12-1.509v-.003l.108-.061zm9.911-10.861c-.542-2.133-4.077-2.834-7.422-1.645-1.989.707-4.144 1.818-5.693 3.267C4.568 8.48 4.275 9.98 4.396 10.607c.427 2.211 3.457 3.657 4.703 4.73v.006c-.367.18-3.056 1.529-3.686 2.925-.675 1.47.105 2.521.615 2.655 1.575.436 3.195-.36 4.065-1.649.84-1.261.766-2.881.404-3.676.496-.135 1.08-.195 1.83-.104 2.101.24 2.521 1.56 2.43 2.1-.09.539-.523.854-.674.944-.15.091-.195.12-.181.181.015.09.091.09.21.075.165-.03 1.096-.45 1.141-1.471.045-1.29-1.186-2.729-3.375-2.7-.9.016-1.471.091-1.875.256-.03-.045-.061-.075-.105-.105-1.35-1.455-3.855-2.475-3.75-4.41.03-.705.285-2.564 4.8-4.814 3.705-1.846 6.661-1.335 7.171-.21.733 1.604-1.576 4.59-5.431 5.024-1.47.165-2.235-.404-2.431-.615-.209-.225-.239-.24-.314-.194-.12.06-.045.255 0 .375.12.3.585.825 1.396 1.095.704.225 2.43.359 4.5-.45 2.324-.899 4.139-3.405 3.614-5.505l.073.067z"/>
                             </svg>
                                                 SASS
                     </div>
                                     <div class="tag" style="background:#1a202c;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:#06B6D4;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:#06B6D4;">
                                 <path d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z"/>
                             </svg>
                                                 TAILWINDCSS
                     </div>
                                     <div class="tag" style="background:#3178C6;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z"/>
                             </svg>
                                                 TYPESCRIPT
                     </div>
                                     <div class="tag" style="background:#4FC08D;color:white">
-                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1.25em;margin-right:0.5rem;color:inherit;">
+                                                    <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" style="width:1em;margin-right:0.5rem;color:inherit;">
                                 <path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/>
                             </svg>
                                                 VUE.JS
@@ -455,7 +458,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2022-11-05 19:01:41 -->
+            <!-- 2022-11-05 20:39:59 -->
         </div>
     </foreignObject>
 </svg>
