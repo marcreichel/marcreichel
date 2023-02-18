@@ -78,7 +78,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                     </svg>
-                    Followed by 32 users
+                    Followed by 33 users
                 </p>
                 <p>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
@@ -161,9 +161,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:27.003205128205%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:27.163461538462%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    337
+                                    339
                                 </div>
                             </div>
                         </div>
@@ -191,7 +191,7 @@
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Organizations</div>
                 </div>
                 <div>
-                    <div style="font-size:1.5rem;">342</div>
+                    <div style="font-size:1.5rem;">344</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Earned Stars</div>
                 </div>
             </div>
@@ -200,7 +200,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                 </svg>
 
-                32 FOLLOWERS
+                33 FOLLOWERS
             </h3>
             <div style="display:grid;grid-template-columns:repeat(12, minmax(0, 1fr));gap:0.5rem;margin:2rem 0;">
                                     <img src="data:image/jpeg;base64,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" alt="monzersmiledev" style="width:100%;" class="avatar"/>
@@ -458,7 +458,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2023-02-18 13:01:47 -->
+            <!-- 2023-02-18 19:01:37 -->
         </div>
     </foreignObject>
 </svg>
