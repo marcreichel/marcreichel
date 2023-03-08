@@ -20,15 +20,15 @@
 
 <!-- https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800 -->
 
-<!--    
-         @marcreichel's 2021 GitHub Skyline          
+<!--
+         @marcreichel's 2022 GitHub Skyline          
 
-✧                     ✦                 ✦         ▁  
-    ✦           ▅        ✦ ✦         ✦      █▁✦  ▁█▁ 
- ☽ ▁        ▂   █▂     ▁                    ██   ███ 
-   █▅✧      █▃▂ ██  ▇ ▁█           ✧       ▃██ ▄▇███ 
-   ██▁▁ ▃█▃▆███▅██▅▃█▇██▅▄█ ▁█▅▃█▃▁▁▃▃ ▆▃▅▆███▇█████▆
-▁▆▇███████████████████████████████████▇██████████████
+                   ▁  ✧✦✧ ▁           ☽              
+       ✦    ✧      █▄ ✦✦  █  █ ✦✧ ▅       ✦         █
+ ✧           ▅     ██ ✦ ▄ █  █  ✧ █                ▁█
+  ▆▄ ▂█▅   ▆▁█▄✦▃ ▅██▂▃▄█▄█  █▂▃▇▂█   ▃▅▁ ▁▃ ▁▂▁▅ ▆██
+▁▅██▆███▅██████▂█▅██████████▇██████  ▆███▇██▅████████
+████████████████████████████████████▅████████████████
 
-     https://skyline.github.com/marcreichel/2021     
+     https://skyline.github.com/marcreichel/2022     
 -->
