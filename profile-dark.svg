@@ -101,7 +101,7 @@
             <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:2rem;margin:2rem 4rem;">
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:30.013106159895%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:29.993451211526%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     458
                                 </div>
@@ -111,7 +111,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:89.121887287025%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:89.063523248199%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,360
                                 </div>
@@ -121,7 +121,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:93.577981651376%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:93.516699410609%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,428
                                 </div>
@@ -131,7 +131,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:88.401048492792%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:88.343156516045%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,349
                                 </div>
@@ -143,7 +143,7 @@
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
                             <div style="width:100%;height:100%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,526
+                                    1,527
                                 </div>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:84.731323722149%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:84.67583497053%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,293
                                 </div>
@@ -161,7 +161,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:26.802096985583%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:26.784544859201%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     409
                                 </div>
@@ -191,7 +191,7 @@
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Organizations</div>
                 </div>
                 <div>
-                    <div style="font-size:1.5rem;">381</div>
+                    <div style="font-size:1.5rem;">384</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Earned Stars</div>
                 </div>
             </div>
@@ -458,7 +458,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2023-04-20 20:01:40 -->
+            <!-- 2023-04-21 02:03:57 -->
         </div>
     </foreignObject>
 </svg>
