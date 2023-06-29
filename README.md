@@ -12,6 +12,16 @@
   <img alt="Snake" src="https://raw.githubusercontent.com/marcreichel/marcreichel/output/github-snake.svg" width="100%">
 </picture>
 
+<hr />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,typescript,javascript,alpinejs,css,tailwindcss,webpack,html,git,md,mysql,nginx,nodejs,regex&theme=dark" />
+  </a>
+</p>
+
+<hr />
+
 <img src="github-metrics.svg" style="width:100%;" alt="Metrics">
 
 <p align="center">
