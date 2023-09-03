@@ -24,9 +24,9 @@
 
 <img src="github-metrics.svg" style="width:100%;" alt="Metrics">
 
-<p align="center">
+<!--<p align="center">
   <a href="https://raw.githubusercontent.com/marcreichel/marcreichel/main/github-achievements.svg"><strong>🏆 List of achievements</strong></a>
-</p>
+</p>-->
 
 <!-- https://github-readme-stats.vercel.app/api?username=marcreichel&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=1800 -->
 
