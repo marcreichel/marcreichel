@@ -78,7 +78,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                     </svg>
-                    Followed by 43 users
+                    Followed by 44 users
                 </p>
                 <p>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
@@ -101,7 +101,7 @@
             <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:2rem;margin:2rem 4rem;">
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:34.524612272421%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:34.501347708895%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     512
                                 </div>
@@ -111,7 +111,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:89.413351314902%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:89.353099730458%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,326
                                 </div>
@@ -123,7 +123,7 @@
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
                             <div style="width:100%;height:100%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,483
+                                    1,484
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:98.044504383007%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:97.978436657682%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,454
                                 </div>
@@ -141,9 +141,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:94.200944032367%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:95.956873315364%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,397
+                                    1,424
                                 </div>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:81.523937963587%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:81.469002695418%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,209
                                 </div>
@@ -161,7 +161,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:32.501685772084%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:32.479784366577%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     482
                                 </div>
@@ -191,7 +191,7 @@
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Organizations</div>
                 </div>
                 <div>
-                    <div style="font-size:1.5rem;">449</div>
+                    <div style="font-size:1.5rem;">450</div>
                     <div style="font-weight:600;text-transform:uppercase;font-size:small;opacity:0.5;">Earned Stars</div>
                 </div>
             </div>
@@ -200,7 +200,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                 </svg>
 
-                43 FOLLOWERS
+                44 FOLLOWERS
             </h3>
             <div style="display:grid;grid-template-columns:repeat(12, minmax(0, 1fr));gap:0.5rem;margin:2rem 0;">
                                     <img src="data:image/jpeg;base64,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" alt="monzersmiledev" style="width:100%;" class="avatar"/>
@@ -458,7 +458,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2023-09-28 14:02:06 -->
+            <!-- 2023-09-28 20:01:35 -->
         </div>
     </foreignObject>
 </svg>
