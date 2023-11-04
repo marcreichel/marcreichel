@@ -78,7 +78,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                     </svg>
-                    Followed by 45 users
+                    Followed by 46 users
                 </p>
                 <p>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
@@ -200,7 +200,7 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                 </svg>
 
-                45 FOLLOWERS
+                46 FOLLOWERS
             </h3>
             <div style="display:grid;grid-template-columns:repeat(12, minmax(0, 1fr));gap:0.5rem;margin:2rem 0;">
                                     <img src="data:image/jpeg;base64,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" alt="monzeromer-lab" style="width:100%;" class="avatar"/>
@@ -458,7 +458,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2023-11-04 07:01:35 -->
+            <!-- 2023-11-04 13:01:37 -->
         </div>
     </foreignObject>
 </svg>
