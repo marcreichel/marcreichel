@@ -101,7 +101,7 @@
             <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:2rem;margin:2rem 4rem;">
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:28.828828828829%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:28.850488354621%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     384
                                 </div>
@@ -113,7 +113,7 @@
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
                             <div style="width:100%;height:100%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,332
+                                    1,331
                                 </div>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:77.852852852853%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:77.911344853494%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,037
                                 </div>
@@ -131,9 +131,9 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:85.510510510511%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:86.401202103681%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,139
+                                    1,150
                                 </div>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:81.756756756757%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:81.818181818182%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,089
                                 </div>
@@ -151,7 +151,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:68.693693693694%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:68.745304282494%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     915
                                 </div>
@@ -161,7 +161,7 @@
                     </div>
                                     <div>
                         <div style="height:6rem;display:flex;align-items:end;width:0.65rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:29.72972972973%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:29.752066115702%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     396
                                 </div>
@@ -458,7 +458,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2024-08-07 14:02:25 -->
+            <!-- 2024-08-07 20:01:43 -->
         </div>
     </foreignObject>
 </svg>
