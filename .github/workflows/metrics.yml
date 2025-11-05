@@ -9,27 +9,6 @@ on:
       - master
       - main
 jobs:
-  github-achievements:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Core
-          user: marcreichel
-          config_timezone: Europe/Berlin
-          committer_message: "🏆 Update Achievements"
-          
-          template: classic
-          base: header
-          filename: github-achievements.*
-          
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -49,20 +28,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year                        # Display half year instead of full year
           
-          plugin_achievements: yes              # Disable for now, because the achievements are broken
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secret achievements
-          plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
-          
           plugin_introduction: yes
-          
-          plugin_habits: yes
-          plugin_habits_from: 1000       # Use 1000 events to compute habits
-          plugin_habits_days: 30         # Keep only events from last 30 days
-          plugin_habits_facts: no        # Do not display facts section
-          plugin_habits_charts: yes      # Display charts section
-          plugin_habits_trim: no         # Do not trim unused hours on daily chart
           
           plugin_people: yes
           plugin_people_types: followers     # Display followers section
