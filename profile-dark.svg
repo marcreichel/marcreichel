@@ -101,7 +101,7 @@
             <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:2rem;margin:2rem 4rem;">
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:43.664596273292%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:43.637492240844%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     703
                                 </div>
@@ -113,7 +113,7 @@
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
                             <div style="width:100%;height:100%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,610
+                                    1,611
                                 </div>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:88.757763975155%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:88.702669149597%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,429
                                 </div>
@@ -131,9 +131,9 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:98.819875776398%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:98.944754810677%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,591
+                                    1,594
                                 </div>
                             </div>
                         </div>
@@ -141,9 +141,9 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:83.60248447205%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:84.481688392303%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,346
+                                    1,361
                                 </div>
                             </div>
                         </div>
@@ -151,9 +151,9 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:91.863354037267%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:91.868404717567%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    1,479
+                                    1,480
                                 </div>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:42.608695652174%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:42.582247051521%;background:#5045e5;background: linear-gradient(180deg,  #5045e5  0%,  #312e81  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     686
                                 </div>
@@ -392,7 +392,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2026-08-20 14:26:26 -->
+            <!-- 2026-08-20 20:22:49 -->
         </div>
     </foreignObject>
 </svg>
