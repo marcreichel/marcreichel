@@ -21,8 +21,12 @@
             border-radius: 100%;
             border: 1px solid rgba(0,0,0,0.1);
         }
-        .header {
-            color: #5045e5;
+        .header > span {
+            background: linear-gradient(to right, #22d3ee, #ec4899);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
         }
         .username {
             padding-bottom: 1rem;
@@ -121,10 +125,10 @@
             border-radius: 1px;
         }
                 .level-NONE { background: rgba(0,0,0,0.06); }
-        .level-FIRST_QUARTILE { background: #c7d2fe; }
-        .level-SECOND_QUARTILE { background: #a5b4fc; }
-        .level-THIRD_QUARTILE { background: #6366f1; }
-        .level-FOURTH_QUARTILE { background: #4338ca; }
+        .level-FIRST_QUARTILE { background: #a5f3fc; }
+        .level-SECOND_QUARTILE { background: #22d3ee; }
+        .level-THIRD_QUARTILE { background: #0891b2; }
+        .level-FOURTH_QUARTILE { background: #ec4899; }
                 .logo {
             width: 4.5rem;
             margin: 1rem auto 0;
@@ -132,7 +136,7 @@
     </style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="wrapper">
-            <h1 class="header">Marc Reichel 🎃</h1>
+            <h1 class="header"><span>Marc Reichel</span> 🎃</h1>
             <h2 class="username">@marcreichel</h2>
             <div class="statistics">
                 <p>
@@ -542,17 +546,21 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" preserveAspectRatio="none" style="display:block;width:397px;height:2.5rem;margin:1rem auto 0;overflow:visible;">
                 <defs>
                     <linearGradient id="sparkline-fill" x1="0" y1="0" x2="0" y2="1">
-                        <stop offset="0%" stop-color="#5045e5" stop-opacity="0.15"/>
-                        <stop offset="100%" stop-color="#5045e5" stop-opacity="0"/>
+                        <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.2"/>
+                        <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+                    </linearGradient>
+                    <linearGradient id="sparkline-stroke" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
+                        <stop offset="0%" stop-color="#22d3ee"/>
+                        <stop offset="100%" stop-color="#ec4899"/>
                     </linearGradient>
                 </defs>
-                <path d="M0,13.8 C0.32,13.84 1.28,13.51 1.92,14.01 C2.56,14.5 3.21,17.36 3.85,16.78 C4.49,16.2 5.13,11.18 5.77,10.55 C6.41,9.91 7.05,12.59 7.69,12.98 C8.33,13.37 8.97,12 9.62,12.88 C10.26,13.76 10.9,17.84 11.54,18.25 C12.18,18.66 12.82,16.39 13.46,15.34 C14.1,14.29 14.74,11.9 15.38,11.95 C16.03,12 16.67,14.69 17.31,15.65 C17.95,16.62 18.59,17.27 19.23,17.74 C19.87,18.21 20.51,19.24 21.15,18.46 C21.79,17.68 22.44,13.97 23.08,13.08 C23.72,12.19 24.36,13.1 25,13.12 C25.64,13.13 26.28,12.73 26.92,13.18 C27.56,13.64 28.21,15.74 28.85,15.82 C29.49,15.91 30.13,13.92 30.77,13.7 C31.41,13.48 32.05,14.81 32.69,14.52 C33.33,14.24 33.97,12.52 34.62,11.99 C35.26,11.46 35.9,10.77 36.54,11.34 C37.18,11.9 37.82,15.14 38.46,15.38 C39.1,15.62 39.74,13.38 40.38,12.77 C41.03,12.17 41.67,11.71 42.31,11.75 C42.95,11.78 43.59,13.01 44.23,12.98 C44.87,12.95 45.51,11.54 46.15,11.58 C46.79,11.62 47.44,12.67 48.08,13.22 C48.72,13.77 49.36,14.77 50,14.86 C50.64,14.96 51.28,13.24 51.92,13.8 C52.56,14.36 53.21,18.45 53.85,18.22 C54.49,17.99 55.13,13.21 55.77,12.43 C56.41,11.66 57.05,13.69 57.69,13.56 C58.33,13.44 58.97,10.8 59.62,11.68 C60.26,12.56 60.9,17.65 61.54,18.84 C62.18,20 62.82,19.87 63.46,18.8 C64.1,17.73 64.74,13.95 65.38,12.43 C66.03,10.91 66.67,9.23 67.31,9.69 C67.95,10.15 68.59,14.82 69.23,15.21 C69.87,15.59 70.51,12.05 71.15,11.99 C71.79,11.92 72.44,14.33 73.08,14.79 C73.72,15.26 74.36,14.79 75,14.76 C75.64,14.73 76.28,15.49 76.92,14.62 C77.56,13.76 78.21,11.15 78.85,9.55 C79.49,7.96 80.13,4.66 80.77,5.07 C81.41,5.48 82.05,10.61 82.69,12.02 C83.33,13.44 83.97,12.62 84.62,13.56 C85.26,14.5 85.9,18.03 86.54,17.67 C87.18,17.32 87.82,13.21 88.46,11.44 C89.1,9.66 89.74,7.23 90.38,7.02 C91.03,6.81 91.67,11.34 92.31,10.17 C92.95,9 93.59,0 94.23,0 C94.87,0.37 95.51,10.07 96.15,12.4 C96.79,14.73 97.44,12.77 98.08,13.97 C98.72,15.18 99.68,18.68 100,19.62 L100,20 L0,20 Z" fill="url(#sparkline-fill)"/>
-                <path d="M0,13.8 C0.32,13.84 1.28,13.51 1.92,14.01 C2.56,14.5 3.21,17.36 3.85,16.78 C4.49,16.2 5.13,11.18 5.77,10.55 C6.41,9.91 7.05,12.59 7.69,12.98 C8.33,13.37 8.97,12 9.62,12.88 C10.26,13.76 10.9,17.84 11.54,18.25 C12.18,18.66 12.82,16.39 13.46,15.34 C14.1,14.29 14.74,11.9 15.38,11.95 C16.03,12 16.67,14.69 17.31,15.65 C17.95,16.62 18.59,17.27 19.23,17.74 C19.87,18.21 20.51,19.24 21.15,18.46 C21.79,17.68 22.44,13.97 23.08,13.08 C23.72,12.19 24.36,13.1 25,13.12 C25.64,13.13 26.28,12.73 26.92,13.18 C27.56,13.64 28.21,15.74 28.85,15.82 C29.49,15.91 30.13,13.92 30.77,13.7 C31.41,13.48 32.05,14.81 32.69,14.52 C33.33,14.24 33.97,12.52 34.62,11.99 C35.26,11.46 35.9,10.77 36.54,11.34 C37.18,11.9 37.82,15.14 38.46,15.38 C39.1,15.62 39.74,13.38 40.38,12.77 C41.03,12.17 41.67,11.71 42.31,11.75 C42.95,11.78 43.59,13.01 44.23,12.98 C44.87,12.95 45.51,11.54 46.15,11.58 C46.79,11.62 47.44,12.67 48.08,13.22 C48.72,13.77 49.36,14.77 50,14.86 C50.64,14.96 51.28,13.24 51.92,13.8 C52.56,14.36 53.21,18.45 53.85,18.22 C54.49,17.99 55.13,13.21 55.77,12.43 C56.41,11.66 57.05,13.69 57.69,13.56 C58.33,13.44 58.97,10.8 59.62,11.68 C60.26,12.56 60.9,17.65 61.54,18.84 C62.18,20 62.82,19.87 63.46,18.8 C64.1,17.73 64.74,13.95 65.38,12.43 C66.03,10.91 66.67,9.23 67.31,9.69 C67.95,10.15 68.59,14.82 69.23,15.21 C69.87,15.59 70.51,12.05 71.15,11.99 C71.79,11.92 72.44,14.33 73.08,14.79 C73.72,15.26 74.36,14.79 75,14.76 C75.64,14.73 76.28,15.49 76.92,14.62 C77.56,13.76 78.21,11.15 78.85,9.55 C79.49,7.96 80.13,4.66 80.77,5.07 C81.41,5.48 82.05,10.61 82.69,12.02 C83.33,13.44 83.97,12.62 84.62,13.56 C85.26,14.5 85.9,18.03 86.54,17.67 C87.18,17.32 87.82,13.21 88.46,11.44 C89.1,9.66 89.74,7.23 90.38,7.02 C91.03,6.81 91.67,11.34 92.31,10.17 C92.95,9 93.59,0 94.23,0 C94.87,0.37 95.51,10.07 96.15,12.4 C96.79,14.73 97.44,12.77 98.08,13.97 C98.72,15.18 99.68,18.68 100,19.62" fill="none" stroke="#5045e5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+                <path d="M0,13.8 C0.32,13.84 1.28,13.51 1.92,14.01 C2.56,14.5 3.21,17.36 3.85,16.78 C4.49,16.2 5.13,11.18 5.77,10.55 C6.41,9.91 7.05,12.59 7.69,12.98 C8.33,13.37 8.97,12 9.62,12.88 C10.26,13.76 10.9,17.84 11.54,18.25 C12.18,18.66 12.82,16.39 13.46,15.34 C14.1,14.29 14.74,11.9 15.38,11.95 C16.03,12 16.67,14.69 17.31,15.65 C17.95,16.62 18.59,17.27 19.23,17.74 C19.87,18.21 20.51,19.24 21.15,18.46 C21.79,17.68 22.44,13.97 23.08,13.08 C23.72,12.19 24.36,13.1 25,13.12 C25.64,13.13 26.28,12.73 26.92,13.18 C27.56,13.64 28.21,15.74 28.85,15.82 C29.49,15.91 30.13,13.92 30.77,13.7 C31.41,13.48 32.05,14.81 32.69,14.52 C33.33,14.24 33.97,12.52 34.62,11.99 C35.26,11.46 35.9,10.77 36.54,11.34 C37.18,11.9 37.82,15.14 38.46,15.38 C39.1,15.62 39.74,13.38 40.38,12.77 C41.03,12.17 41.67,11.71 42.31,11.75 C42.95,11.78 43.59,13.01 44.23,12.98 C44.87,12.95 45.51,11.54 46.15,11.58 C46.79,11.62 47.44,12.67 48.08,13.22 C48.72,13.77 49.36,14.77 50,14.86 C50.64,14.96 51.28,13.24 51.92,13.8 C52.56,14.36 53.21,18.45 53.85,18.22 C54.49,17.99 55.13,13.21 55.77,12.43 C56.41,11.66 57.05,13.69 57.69,13.56 C58.33,13.44 58.97,10.8 59.62,11.68 C60.26,12.56 60.9,17.65 61.54,18.84 C62.18,20 62.82,19.87 63.46,18.8 C64.1,17.73 64.74,13.95 65.38,12.43 C66.03,10.91 66.67,9.23 67.31,9.69 C67.95,10.15 68.59,14.82 69.23,15.21 C69.87,15.59 70.51,12.05 71.15,11.99 C71.79,11.92 72.44,14.33 73.08,14.79 C73.72,15.26 74.36,14.79 75,14.76 C75.64,14.73 76.28,15.49 76.92,14.62 C77.56,13.76 78.21,11.15 78.85,9.55 C79.49,7.96 80.13,4.66 80.77,5.07 C81.41,5.48 82.05,10.61 82.69,12.02 C83.33,13.44 83.97,12.62 84.62,13.56 C85.26,14.5 85.9,18.03 86.54,17.67 C87.18,17.32 87.82,13.21 88.46,11.44 C89.1,9.66 89.74,7.23 90.38,7.02 C91.03,6.81 91.67,11.34 92.31,10.17 C92.95,9 93.59,0 94.23,0 C94.87,0.37 95.51,10.07 96.15,12.4 C96.79,14.73 97.44,12.8 98.08,13.97 C98.72,15.14 99.68,18.51 100,19.42 L100,20 L0,20 Z" fill="url(#sparkline-fill)"/>
+                <path d="M0,13.8 C0.32,13.84 1.28,13.51 1.92,14.01 C2.56,14.5 3.21,17.36 3.85,16.78 C4.49,16.2 5.13,11.18 5.77,10.55 C6.41,9.91 7.05,12.59 7.69,12.98 C8.33,13.37 8.97,12 9.62,12.88 C10.26,13.76 10.9,17.84 11.54,18.25 C12.18,18.66 12.82,16.39 13.46,15.34 C14.1,14.29 14.74,11.9 15.38,11.95 C16.03,12 16.67,14.69 17.31,15.65 C17.95,16.62 18.59,17.27 19.23,17.74 C19.87,18.21 20.51,19.24 21.15,18.46 C21.79,17.68 22.44,13.97 23.08,13.08 C23.72,12.19 24.36,13.1 25,13.12 C25.64,13.13 26.28,12.73 26.92,13.18 C27.56,13.64 28.21,15.74 28.85,15.82 C29.49,15.91 30.13,13.92 30.77,13.7 C31.41,13.48 32.05,14.81 32.69,14.52 C33.33,14.24 33.97,12.52 34.62,11.99 C35.26,11.46 35.9,10.77 36.54,11.34 C37.18,11.9 37.82,15.14 38.46,15.38 C39.1,15.62 39.74,13.38 40.38,12.77 C41.03,12.17 41.67,11.71 42.31,11.75 C42.95,11.78 43.59,13.01 44.23,12.98 C44.87,12.95 45.51,11.54 46.15,11.58 C46.79,11.62 47.44,12.67 48.08,13.22 C48.72,13.77 49.36,14.77 50,14.86 C50.64,14.96 51.28,13.24 51.92,13.8 C52.56,14.36 53.21,18.45 53.85,18.22 C54.49,17.99 55.13,13.21 55.77,12.43 C56.41,11.66 57.05,13.69 57.69,13.56 C58.33,13.44 58.97,10.8 59.62,11.68 C60.26,12.56 60.9,17.65 61.54,18.84 C62.18,20 62.82,19.87 63.46,18.8 C64.1,17.73 64.74,13.95 65.38,12.43 C66.03,10.91 66.67,9.23 67.31,9.69 C67.95,10.15 68.59,14.82 69.23,15.21 C69.87,15.59 70.51,12.05 71.15,11.99 C71.79,11.92 72.44,14.33 73.08,14.79 C73.72,15.26 74.36,14.79 75,14.76 C75.64,14.73 76.28,15.49 76.92,14.62 C77.56,13.76 78.21,11.15 78.85,9.55 C79.49,7.96 80.13,4.66 80.77,5.07 C81.41,5.48 82.05,10.61 82.69,12.02 C83.33,13.44 83.97,12.62 84.62,13.56 C85.26,14.5 85.9,18.03 86.54,17.67 C87.18,17.32 87.82,13.21 88.46,11.44 C89.1,9.66 89.74,7.23 90.38,7.02 C91.03,6.81 91.67,11.34 92.31,10.17 C92.95,9 93.59,0 94.23,0 C94.87,0.37 95.51,10.07 96.15,12.4 C96.79,14.73 97.44,12.8 98.08,13.97 C98.72,15.14 99.68,18.51 100,19.42" fill="none" stroke="url(#sparkline-stroke)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
             </svg>
             <p style="opacity:0.5;font-size:small;margin-top:0.25rem;">Weekly contributions</p>
             <div class="tiles">
                 <div>
-                    <div class="stat-value">10,191</div>
+                    <div class="stat-value">10,197</div>
                     <div class="stat-label">Contributions</div>
                 </div>
                 <div>
@@ -588,9 +596,9 @@
             <div style="display:grid;grid-template-columns:repeat(7, minmax(0, 1fr));gap:2rem;margin:2rem 4rem;">
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:46.840148698885%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:47.158789166224%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
-                                    882
+                                    888
                                 </div>
                             </div>
                         </div>
@@ -598,7 +606,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:87.095061072756%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:87.095061072756%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,640
                                 </div>
@@ -608,7 +616,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:81.571959638874%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:81.571959638874%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,536
                                 </div>
@@ -618,7 +626,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:91.556027615507%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:91.556027615507%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,724
                                 </div>
@@ -628,7 +636,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:85.714285714286%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:85.714285714286%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,614
                                 </div>
@@ -638,7 +646,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:100%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:100%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     1,883
                                 </div>
@@ -648,7 +656,7 @@
                     </div>
                                     <div style="position:relative;">
                         <div style="height:6rem;display:flex;align-items:end;width:0.5rem;margin:0 auto 0.5rem;">
-                            <div style="width:100%;height:48.433351035582%;background:#5045e5;background: linear-gradient(180deg,  #a5b4fc  0%,  #5045e5  100%);border-radius:9999px;position:relative;">
+                            <div style="width:100%;height:48.433351035582%;background:#06b6d4;background: linear-gradient(180deg,  #22d3ee  0%,  #ec4899  100%);border-radius:9999px;position:relative;">
                                 <div style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%)translateY(-0.25rem);font-size:smaller;opacity:0.5;">
                                     912
                                 </div>
@@ -666,18 +674,18 @@
                 CONTRIBUTION BREAKDOWN
             </h3>
             <div class="bar">
-                                    <div style="width:63.747335787638%;background:#5045e5;"></div>
-                                    <div style="width:12.856035652005%;background:#818cf8;"></div>
-                                    <div style="width:20.732416198411%;background:#a855f7;"></div>
-                                    <div style="width:2.52857973261%;background:#ec4899;"></div>
-                                    <div style="width:0.1356326293354%;background:#14b8a6;"></div>
+                                    <div style="width:63.749031758327%;background:#06b6d4;"></div>
+                                    <div style="width:12.848567002324%;background:#ec4899;"></div>
+                                    <div style="width:20.739736638265%;background:#8b5cf6;"></div>
+                                    <div style="width:2.5271107668474%;background:#f59e0b;"></div>
+                                    <div style="width:0.13555383423703%;background:#10b981;"></div>
                             </div>
             <div class="legend">
-                                    <span><span class="dot" style="background:#5045e5;"></span>Commits <span style="opacity:0.5;">6,580</span></span>
-                                    <span><span class="dot" style="background:#818cf8;"></span>Pull Requests <span style="opacity:0.5;">1,327</span></span>
-                                    <span><span class="dot" style="background:#a855f7;"></span>Reviews <span style="opacity:0.5;">2,140</span></span>
-                                    <span><span class="dot" style="background:#ec4899;"></span>Issues <span style="opacity:0.5;">261</span></span>
-                                    <span><span class="dot" style="background:#14b8a6;"></span>New Repos <span style="opacity:0.5;">14</span></span>
+                                    <span><span class="dot" style="background:#06b6d4;"></span>Commits <span style="opacity:0.5;">6,584</span></span>
+                                    <span><span class="dot" style="background:#ec4899;"></span>Pull Requests <span style="opacity:0.5;">1,327</span></span>
+                                    <span><span class="dot" style="background:#8b5cf6;"></span>Reviews <span style="opacity:0.5;">2,142</span></span>
+                                    <span><span class="dot" style="background:#f59e0b;"></span>Issues <span style="opacity:0.5;">261</span></span>
+                                    <span><span class="dot" style="background:#10b981;"></span>New Repos <span style="opacity:0.5;">14</span></span>
                             </div>
             <h3 class="section-title">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon" style="margin-right:0.5rem;">
@@ -937,7 +945,7 @@
                                                 VITE
                     </div>
                             </div>
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2204.5 1304.6" fill="#5045e5" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2204.5 1304.6" fill="#06b6d4" class="logo">
                 <path d="M46.6,1304.6c-12.2,0.1-23.9-4.6-32.6-13c-9.3-8.7-14-19.9-14-33.6V46.6C0,32.9,4.7,21.8,14,13S34.2,0,46.6,0h201.3
 	c19.9,0,35.1,5.3,45.7,15.8s17.1,18.9,19.6,25.2l318.6,572c2.9,5.2,9.5,7.1,14.7,4.2c1.7-1,3.2-2.4,4.2-4.2L969.1,41
 	c3.7-6.2,10.3-14.6,19.6-25.2S1013.2,0,1034.4,0h199.4c13.7,0,25.2,4.3,34.5,13s14,19.9,14,33.5V1258c0,13.7-4.7,24.9-14,33.6
@@ -951,7 +959,7 @@
 	c16.4,0,31.5,9.1,39,23.7l200.2,386.3c5,10,13,20.8,24.2,32.6c11.2,11.8,28.6,17.7,52.2,17.7h246c10.9,0.1,21.3-4.3,28.9-12.1
 	c8.1-8.1,12.1-17.1,12.1-27C2204.5,1259.3,2202.6,1252.4,2198.9,1245z"/>
             </svg>
-            <!-- 2026-10-11 22:41:46 -->
+            <!-- 2026-10-11 23:00:45 -->
         </div>
     </foreignObject>
 </svg>
