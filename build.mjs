@@ -120,7 +120,7 @@ const query = `{
     followers(last: 24) { totalCount nodes { login avatarUrl } }
     contributionsCollection {
       totalIssueContributions totalCommitContributions totalRepositoryContributions
-      totalPullRequestContributions totalPullRequestReviewContributions
+      totalPullRequestContributions totalPullRequestReviewContributions restrictedContributionsCount
       contributionCalendar { weeks { contributionDays { date contributionCount contributionLevel } } }
     }
   }
@@ -274,7 +274,9 @@ const breakdown = [
     { name: 'Reviews', color: '#8b5cf6', count: contributions.totalPullRequestReviewContributions },
     { name: 'Issues', color: '#f59e0b', count: contributions.totalIssueContributions },
     { name: 'New Repos', color: '#10b981', count: contributions.totalRepositoryContributions },
-];
+    // Contributions to private repositories the token cannot read are only reported as a total, without their type.
+    { name: 'Private', color: '#64748b', count: contributions.restrictedContributionsCount },
+].filter((item) => item.count > 0);
 const breakdownTotal = Math.max(sum(breakdown, 'count'), 1);
 const weeklySparkline = sparkline(weeks.map((week) => sum(week.contributionDays, 'contributionCount')));
 const byName = (a, b) => (a.name.toLowerCase() < b.name.toLowerCase() ? -1 : 1);
